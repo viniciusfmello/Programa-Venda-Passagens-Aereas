@@ -1,0 +1,38 @@
+Esse programa permite: Cadastrar voos, Cadastrar passageiros, Ver voos, Ver passageiros, Alterar um passageiro, Excluir um passageiro, Alterar um voo e Excluir um voo
+
+Como Executar o Programa:
+
+Para iniciar o programa, digite no console do Visual Studio Code: dotnet run.
+Ao digitar este comando, o programa começará a ser iniciado.
+Ao iniciar, é exibido no terminal um menu de opções que vai de 1 a 6. 
+
+Basta digitar a opção desejada. 
+
+1) Para opções de ver
+2) Para opções de alterar
+3) Para opções de excluir
+4) Para opções de cadastrar
+5) Para Inserir passageiro em um voo
+6) Para Sair (Essa opção encerra o programa. Basta digitar o número 6)
+
+O programa é separado por diversas abas:
+
+-Abas de visualização de voos e passageiros
+-Abas de alterações de voos e passageiros
+-Abas de cadastramento de voos e passageiros
+- Abas de exclusão de voos e passageiros
+-Abas de inserção de voos e passageiros
+
+Todas abas possuem menus bem intuitivos. Para selecionar a opção desejada, basta digitar o número da opção do menu. Algumas opções podem solicitar informações, tais como:
+
+•	Cadastro de passageiro:
+•	Informar o código do passageiro
+•	Informar o nome do passageiro
+
+•	Cadastro de voos:
+•	Informar o código do voo
+•	Informar a quantidade de KM que será percorrida
+•	Informar a quantidade de assentos disponíveis
+
+Para abas que solicitarem informações, basta digita-la de acordo com o que se pede.
+Avisos: Nosso sistema não permite cadastro de passageiros e de voos com o mesmo código ou nome. Ao digitar, será solicitado novamente as informações.

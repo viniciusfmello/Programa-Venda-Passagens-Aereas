@@ -1,0 +1,30 @@
+C:\Users\vinic\Desktop\TrabalhoFinalATP\bin\Debug\net7.0\TrabalhoFinalATP.exe
+C:\Users\vinic\Desktop\TrabalhoFinalATP\bin\Debug\net7.0\TrabalhoFinalATP.deps.json
+C:\Users\vinic\Desktop\TrabalhoFinalATP\bin\Debug\net7.0\TrabalhoFinalATP.runtimeconfig.json
+C:\Users\vinic\Desktop\TrabalhoFinalATP\bin\Debug\net7.0\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\TrabalhoFinalATP\bin\Debug\net7.0\TrabalhoFinalATP.pdb
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.AssemblyInfo.cs
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\refint\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.pdb
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\TrabalhoFinalATP.genruntimeconfig.cache
+C:\Users\vinic\Desktop\TrabalhoFinalATP\obj\Debug\net7.0\ref\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\bin\Debug\net7.0\TrabalhoFinalATP.exe
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\bin\Debug\net7.0\TrabalhoFinalATP.deps.json
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\bin\Debug\net7.0\TrabalhoFinalATP.runtimeconfig.json
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\bin\Debug\net7.0\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\bin\Debug\net7.0\TrabalhoFinalATP.pdb
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.AssemblyInfo.cs
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\refint\TrabalhoFinalATP.dll
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.pdb
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\TrabalhoFinalATP.genruntimeconfig.cache
+C:\Users\vinic\Desktop\projetos\Trabalho Final ATP\obj\Debug\net7.0\ref\TrabalhoFinalATP.dll
